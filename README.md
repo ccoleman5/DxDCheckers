@@ -31,7 +31,7 @@ Yes .. You can see :
 ```bash
 apt install git python3-pip
 git clone https://github.com/JohanVestige/DxDCheckers
-cd dxdteam-checkers 
+cd DxDCheckers
 pip3 install colorama requests
 python3 dxd.py
 ```
