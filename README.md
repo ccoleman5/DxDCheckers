@@ -18,10 +18,12 @@ Yes .. You can see :
 * Remove Duplicates
 * Proxyless (fresh config)
 ```
-*To get it*
+*Contact Me *
 ---
 ```
-Link Download : https://t.me/dxdteam/207
+[+] Telegram : @JohanVestige
+[+] ICQ : 757714557
+[+] FB : fb.com/johan.vestige
 ```
 *using*
 ----
